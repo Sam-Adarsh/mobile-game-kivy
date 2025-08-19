@@ -11,5 +11,3 @@ A simple mobile game built using **Kivy** – an open-source Python framework fo
 - Easy to extend for adding more levels, assets, and features
 
 ---
-
-## 📂 Project Structure
